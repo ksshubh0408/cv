@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>My Website</title>
+</head>
+<body>
+<h1>Hello Guys</h1>
+<p>I am Kunal Sharma</p>
+<p><strong>How You doing</strong></p>
+<hr> 
+<h2>My Presence Here:</h2>
+<ul type="circle">
+<li>To Teach You English Speaking</li>
+<li>
+<ol start="5">
+<li>To Enhance your Communication Skills</li>
+<li>To Make You Proficient</li>
+</ol>
+</li>
+<li>To Make You Proud</li>
+</ul>
+<hr>
+<p>click link below to know more about me:</p>
+<a href="www.hotstar.com">Information about Me</a>
+
+
+
+
+
+
+
+</body>
